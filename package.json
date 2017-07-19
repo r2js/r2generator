@@ -1,0 +1,38 @@
+{
+  "name": "generator-r2",
+  "description": "",
+  "version": "1.0.0",
+  "author": "Selçuk Fatih Sevinç",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "dependencies": {
+    "debug": "^2.6.3",
+    "mkdirp": "^0.5.1",
+    "yeoman-generator": "^1.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3"
+  },
+  "main": "index.js",
+  "readmeFilename": "README.md",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/r2js/r2generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/r2js/r2generator/issues"
+  },
+  "homepage": "https://github.com/r2js/r2generator",
+  "files": [
+    "generators"
+  ]
+}
