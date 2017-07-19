@@ -8,20 +8,20 @@
 
 <div align="center">
   <!-- NPM version -->
-  <a href="https://npmjs.org/package/r2generator" target="_blank">
-    <img src="https://img.shields.io/npm/v/r2generator.svg" alt="NPM version" />
+  <a href="https://npmjs.org/package/generator-r2" target="_blank">
+    <img src="https://img.shields.io/npm/v/generator-r2.svg" alt="NPM version" />
   </a>
   <!-- License -->
-  <a href="https://npmjs.org/package/r2generator" target="_blank">
-    <img src="https://img.shields.io/npm/l/r2generator.svg" alt="License" />
+  <a href="https://npmjs.org/package/generator-r2" target="_blank">
+    <img src="https://img.shields.io/npm/l/generator-r2.svg" alt="License" />
   </a>
   <!-- Downloads -->
-  <a href="https://npmjs.org/package/r2generator" target="_blank">
-    <img src="https://img.shields.io/npm/dt/r2generator.svg" alt="Downloads" />
+  <a href="https://npmjs.org/package/generator-r2" target="_blank">
+    <img src="https://img.shields.io/npm/dt/generator-r2.svg" alt="Downloads" />
   </a>
   <!-- Downloads Month -->
-  <a href="https://npmjs.org/package/r2generator" target="_blank">
-    <img src="https://img.shields.io/npm/dm/r2generator.svg" alt="Downloads Month" />
+  <a href="https://npmjs.org/package/generator-r2" target="_blank">
+    <img src="https://img.shields.io/npm/dm/generator-r2.svg" alt="Downloads Month" />
   </a>
   <!-- Travis CI -->
   <a href="https://travis-ci.org/r2js/r2generator" target="_blank">
