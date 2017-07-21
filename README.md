@@ -23,9 +23,17 @@
   <a href="https://npmjs.org/package/generator-r2" target="_blank">
     <img src="https://img.shields.io/npm/dm/generator-r2.svg" alt="Downloads Month" />
   </a>
+  <!-- Travis CI -->
+  <a href="https://travis-ci.org/r2js/r2generator" target="_blank">
+    <img src="https://img.shields.io/travis/r2js/r2generator.svg" alt="Travis CI" />
+  </a>
   <!-- Dependencies -->
   <a href="https://david-dm.org/r2js/r2generator" target="_blank">
     <img src="https://img.shields.io/david/r2js/r2generator.svg" alt="Dependencies" />
+  </a>
+  <!-- Codeclimate -->
+  <a href="https://codeclimate.com/github/r2js/r2generator" target="_blank">
+    <img src="https://img.shields.io/codeclimate/github/r2js/r2generator.svg" alt="Codeclimate" />
   </a>
   <!-- Github Stars -->
   <a href="https://github.com/r2js/r2generator" target="_blank">
