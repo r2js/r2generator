@@ -23,12 +23,8 @@ module.exports = class extends Generator {
   }
 
   writing() {
-    mkdirp('config');
-    mkdirp('controller');
-    mkdirp('public');
-    mkdirp('service');
-    mkdirp('test');
-    mkdirp('views');
+    this.fs.copy(this.templatePath('config'), this.destinationPath('config'));
+    this.fs.copy(this.templatePath('views'), this.destinationPath('views'));
     this.fs.copy(this.templatePath('app.js'), this.destinationPath('app.js'));
     this.fs.copy(this.templatePath('editorconfig'), this.destinationPath('.editorconfig'));
     this.fs.copy(this.templatePath('eslintrc'), this.destinationPath('.eslintrc'));
@@ -38,6 +34,11 @@ module.exports = class extends Generator {
       name: this.name,
       desc: this.desc,
     });
+
+    mkdirp('controller');
+    mkdirp('public');
+    mkdirp('service');
+    mkdirp('test');
   }
 
   install() {
