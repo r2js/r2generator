@@ -1,7 +1,7 @@
 <h1 align="center">r2generator</h1>
 
 <div align="center">
-  <strong></strong>
+  <strong>Yeoman generator for r2js</strong>
 </div>
 
 <br />

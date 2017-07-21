@@ -1,7 +1,7 @@
 {
   "name": "generator-r2",
-  "description": "",
-  "version": "1.0.3",
+  "description": "Yeoman generator for r2js",
+  "version": "1.0.4",
   "author": "Selçuk Fatih Sevinç",
   "license": "MIT",
   "engines": {
