@@ -1,7 +1,7 @@
 {
   "name": "generator-r2",
   "description": "Yeoman generator for r2js",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "Selçuk Fatih Sevinç",
   "license": "MIT",
   "engines": {
@@ -27,5 +27,14 @@
   "homepage": "https://github.com/r2js/r2generator",
   "files": [
     "generators"
-  ]
+  ],
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.0",
+    "yeoman-assert": "^3.0.0",
+    "yeoman-test": "^1.7.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
 }

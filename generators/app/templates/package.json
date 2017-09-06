@@ -9,9 +9,11 @@
   },
   "dependencies": {
     "debug": "^2.6.3",
+    "r2acl": "^1.0.2",
     "r2base": "^1.0.15",
     "r2middleware": "^1.0.4",
     "r2mongoose": "^1.0.3",
+    "r2query": "^1.0.7",
     "r2system": "^1.0.6",
     "r2user": "^1.0.7"
   },

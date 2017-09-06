@@ -35,6 +35,9 @@ module.exports = class extends Generator {
       desc: this.desc,
     });
 
+    mkdirp('model');
+    mkdirp('discriminator');
+    mkdirp('middleware');
     mkdirp('controller');
     mkdirp('public');
     mkdirp('service');
